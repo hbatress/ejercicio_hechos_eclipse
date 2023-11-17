@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\usuario\Desktop\Ejericicios en Eclipse\listaEnlazadaSimpleConPruebasUnitarias"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\usuario\Downloads\ArbolGenealogicoPerros\ArbolGenealogicoPerros"/>
+			<item value="C:\Users\usuario\Downloads\ArbolBusqueda\ArbolBusqueda"/>
+			<item value="C:\Users\usuario\Downloads\arbol-binario-grafico-en-java-master\arbol-binario-grafico-en-java-master"/>
+			<item value="C:\Users\usuario\Downloads\Arbol-Rojo-Negro-master\Arbol-Rojo-Negro-master"/>
+			<item value="C:\Users\usuario\Downloads\ArbolBff\ArbolBdsdgd"/>
+			<item value="C:\Users\usuario\Downloads\ArbolB-master\ArbolB-master"/>
+			<item value="C:\Users\usuario\Downloads\ArbolB-masterqdfasad\ArbolB-master"/>
+			<item value="C:\Users\usuario\Downloads\ArbolBJava-master otros\ArbolBJava-master"/>
+			<item value="C:\Users\usuario\Downloads\b-plus-tree-masterweer\b-plus-tree-master"/>
+			<item value="C:\Users\usuario\Downloads\Arbol-b-main\Arbol-b-main\arbol b"/>
+			<item value="C:\Users\usuario\Downloads\EDD_1S2020_PY2_201801195-master\EDD_1S2020_PY2_201801195-master"/>
+			<item value="C:\Users\usuario\Downloads\Arbol_B-mainotros\Arbol_B-main"/>
+			<item value="C:\Users\usuario\Downloads\ArbolB-main\ArbolB-main\ArbolB"/>
+			<item value="C:\Users\usuario\Downloads\ArbolB-masterotros\ArbolB-masterherber"/>
+			<item value="C:\Users\usuario\Downloads\ArbolB-masterotros\ArbolB-master"/>
+			<item value="C:\Users\usuario\Downloads\ArbolBJava-master\ArbolBJava-master"/>
+			<item value="C:\Users\usuario\Downloads\arboltaxis-master\arboltaxis-master"/>
+			<item value="C:\Users\usuario\Downloads\BPLUSTREE-master\BPLUSTREE-master"/>
+			<item value="C:\Users\usuario\Downloads\ArbolesB-master\ArbolesB-master"/>
+			<item value="C:\Users\usuario\Downloads\b-plus-tree-master\b-plus-tree-master"/>
+			<item value="C:\Users\usuario\Downloads\Arbol-B-master\Arbol-B-master"/>
+			<item value="C:\Users\usuario\Downloads\ArbolesBinarios"/>
+			<item value="C:\Users\usuario\Downloads\listasimples master2"/>
+			<item value="C:\Users\usuario\Downloads\ListaSimple-master"/>
+			<item value="C:\Users\usuario\Desktop\Ejericicios en Eclipse\listaEnlazadaSimpleConPruebasUnitarias"/>
+			<item value="C:\Users\usuario\Downloads\listaEnlazadaSimpleConPruebasUnitarias"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>

@@ -1,0 +1,38 @@
+package primer_proyecto;
+
+import java.util.Scanner;
+
+public class TicTac {
+
+	public static void main(String[] args) {
+			
+			char [] [] gamerboard= 
+				{{' ','|',' ','|',' '},
+				{'-','+','-','+','-'},
+				{' ','|',' ','|',' '},
+				{'-','+','-','+','-'},
+				{' ','|',' ','|',' '}};
+			printGamerboard(gamerboard);
+			
+			Scanner scan=new Scanner(System.in);
+			System.out.println("Ingresa un numero del 1-9: ");
+			int post = scan.nextInt();
+			
+			System.out.println(post);
+			
+			switch (post) {
+				case 1:
+						gamerboard[0] [0]='X';
+						break;
+			}
+				
+	}
+		public static void printGamerboard(char [] [] gamerboard) {
+			for(char[] row: gamerboard) {
+				for(char c : row) {
+					System.out.print(c);
+				}
+				System.out.println();
+			}
+		}
+}

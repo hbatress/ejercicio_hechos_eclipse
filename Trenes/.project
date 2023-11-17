@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Trenes</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Imagen/FONDO.jpg</name>
+			<type>1</type>
+			<location>C:/Users/usuario/Downloads/7cf3223525b14286fdf5ebc42e628b4d.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>

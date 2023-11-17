@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;ArbolGenealogicoPerros/src/ArbolGen&apos;&#x0D;&#x0A;- Original project: &apos;Proyecto_Progra_JuanBaten&apos;&#x0D;&#x0A;- Destination element: &apos;ArbolGenealogicoPerros/src/ArbolGen&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Paquetes.Arbol_Binario.java&#x0D;&#x0A;     Paquetes.Nodo_Arbol.java" description="Copy compilation units" destination="=ArbolGenealogicoPerros/src&lt;ArbolGen" element1="/src&lt;Paquetes{Arbol_Binario.java" element2="/src&lt;Paquetes{Nodo_Arbol.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1654554071677" units="2" version="1.0"/>
+</session>

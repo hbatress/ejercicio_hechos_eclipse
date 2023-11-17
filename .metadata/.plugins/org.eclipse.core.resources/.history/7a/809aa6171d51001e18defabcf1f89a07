@@ -1,0 +1,21 @@
+package primer_proyecto;
+
+public class TicTac {
+
+	public static void main(String[] args) {
+			
+			char [] [] gamerboard= 
+				{{' ','|',' ','|',' '},
+				{'-','+','-','+','-'},
+				{' ','|',' ','|',' '},
+				{'-','+','-','+','-'},
+				{' ','|',' ','|',' '}};
+			for(char[] row: gamerboard) {
+				for(char c : row) {
+					System.out.print(c);
+				}
+				System.out.println();
+			}
+	}
+
+}
